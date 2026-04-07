@@ -1,7 +1,12 @@
 aid: dow
-url: https://raw.githubusercontent.com/api-evangelist/dow/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/dow/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.dow.com
+description: >-
+  Dow is a materials science company that offers a wide range of products and services,
+  including agricultural films, construction materials, and medical packaging. We
+  are committed to innovation and sustainability.

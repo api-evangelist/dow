@@ -1,26 +1,30 @@
 # Dow (dow)
-Dow is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Dow.
+
+Dow Inc. is a global materials science company headquartered in Midland, Michigan. Dow combines science and technology to develop innovative products and solutions for packaging, infrastructure, mobility, and consumer applications. This entry is an alias of dow-chemical and covers the same parent company.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/dow/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
-- **Position:** Consuming
+- **Type:** Index
+- **Position:** Consumer
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Materials Science
+- Chemicals
+- Manufacturing
+- Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public APIs have been documented yet for Dow. See also the dow-chemical repository for the same parent company. Contributions welcome.
 
 ## Common Properties
 
@@ -28,6 +32,6 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com

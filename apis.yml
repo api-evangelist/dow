@@ -18,6 +18,10 @@ description: >-
   is an alias of dow-chemical and covers the same parent company.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/dow
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dow-chemical
   - type: Website
     url: https://www.dow.com
 maintainers:
